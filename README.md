@@ -29,7 +29,7 @@ React is more than just a library to me, it’s a passion. I genuinely enjoy wor
 
 [![WebSite](https://img.shields.io/website?url=https%3A%2F%2Ffeijo.dev&up_message=Visit%20my%20website&up_color=blue&style=for-the-badge)](https://feijo.dev)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](thiago@feijo.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thiagofeijodev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thiago.feijo.dev/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagofeijodev/)
 
 
