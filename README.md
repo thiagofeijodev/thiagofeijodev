@@ -1,9 +1,11 @@
 # Thiago Feijó Ramos
 
 <a href="https://github.com/thiagofeijodev/thiagofeijodev">
-  <img src="https://github.com/thiagofeijodev/thiagofeijodev/blob/main/assets/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/thiagofeijodev/thiagofeijodev/blob/main/assets/languages.svg#gh-dark-mode-only" />
+  <img src="https://github.com/thiagofeijodev/github-language-stats/blob/main/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/thiagofeijodev/github-language-stats/blob/main/generated/languages.svg#gh-dark-mode-only" />
 </a>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=thiagofeijodev.thiagofeijodev" alt="visitors">
 
 
 ## 🚀 About Me
@@ -21,9 +23,20 @@ React is more than just a library to me, it’s a passion. I genuinely enjoy wor
 | Language   |                                                                                                                | Language   |                                                                                                               |
 |-------------|--------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
 |JavaScript| <img src="https://github.com/user-attachments/assets/fc57837b-873e-4f28-a1af-d9a3c9d82888" width="20" height="20"> |CSS| <img src="https://github.com/user-attachments/assets/fff8dec7-001b-40a9-b1d7-9222edaecd08" width="20" height="20">| 
-|PowerShell| <img src="https://github.com/user-attachments/assets/de771f23-75b2-4a37-89ee-dbb273804857" width="20" height="20"> |Shell| <img src="https://github.com/user-attachments/assets/136a1460-372b-41db-8fda-e93de130ae94" width="20" height="20">|
+|HTML| <img src="https://github.com/user-attachments/assets/c0785a3f-5027-4808-bfca-ab1b99c6d7cd" width="20" height="20">|Shell| <img src="https://github.com/user-attachments/assets/136a1460-372b-41db-8fda-e93de130ae94" width="20" height="20">|
 |C#| <img src="https://github.com/user-attachments/assets/1b8ac9b8-0245-43fb-9775-f332fd0e60bd" width="20" height="20"> |Python| <img src="https://github.com/user-attachments/assets/5ff68630-fb3a-4f6a-ba48-1c5b13ad3310" width="20" height="20">|
-|HTML| <img src="https://github.com/user-attachments/assets/c0785a3f-5027-4808-bfca-ab1b99c6d7cd" width="20" height="20">|
+
+
+### Most Recent Project(s)
+| Project         | 
+| :-------------------------: | 
+| **[Electron Boilerplate](https://github.com/thiagofeijodev/electron-esbuild-boilerplate)** |
+| **[Node FRC IP](https://github.com/thiagofeijodev/node-ip-tracker)** |
+| **[typescript-find-translate](https://github.com/thiagofeijodev/cli-i18n-react-extrator)** |
+| **[GitHub File Explorer](https://github.com/thiagofeijodev/github-file-explorer)** |
+| **[Pi-HID: Raspberry Pi as a USB Keyboard & Mouse](https://github.com/thiagofeijodev/pi-hid)** |
+| **[Multi-Instance App Routing with Nginx](https://github.com/thiagofeijodev/proxy-frontend)** |
+| **[Node link previwer](https://github.com/thiagofeijodev/node-link-previewer)** |
 
 ## 📫 How to reach me:
 
@@ -59,5 +72,3 @@ flowchart LR
     style 1 stroke:#072ff7,stroke-width:5px
     style 2 stroke:#f70707,stroke-width:5px
 ```
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=thiagofeijodev.thiagofeijodev" alt="visitors">
