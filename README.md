@@ -30,6 +30,8 @@ React is more than just a library to me, it’s a passion. I genuinely enjoy wor
 ### Most Recent Project(s)
 | Project         | 
 | :-------------------------: | 
+| **[PDF Password Remover](https://github.com/thiagofeijodev/pdf-password-remover)** |
+| **[Countdown Timer](https://github.com/thiagofeijodev/countdown)** |
 | **[Electron Boilerplate](https://github.com/thiagofeijodev/electron-esbuild-boilerplate)** |
 | **[Node FRC IP](https://github.com/thiagofeijodev/node-ip-tracker)** |
 | **[typescript-find-translate](https://github.com/thiagofeijodev/cli-i18n-react-extrator)** |
